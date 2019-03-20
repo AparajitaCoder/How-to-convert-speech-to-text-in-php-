@@ -21,7 +21,7 @@ Go back to the API Console and refresh the page. You'll see it listed.
 
 ### Usage ###
 
-See the `sample/example.php` file, or use this below:
+See the `API/example.php` file, or use this below:
 
 ```php
 <?php
